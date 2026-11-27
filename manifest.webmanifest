@@ -1,0 +1,25 @@
+{
+ "name": "낙점",
+ "short_name": "낙점",
+ "description": "경매 물건 분석",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#F4F1EA",
+ "theme_color": "#F4F1EA",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
